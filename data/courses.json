@@ -1,0 +1,68 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "img": "https://image.shutterstock.com/image-vector/math-science-concept-tiny-male-600w-1766546489.jpg",
+    "category": "Science",
+    "name": "Mathematics",
+    "credit": 4,
+    "duration": 20,
+    "fee": 5000,
+    "instructor": "Mr. Augustin",
+    "details": "The main topics they cover include algebra, functions and equations, trigonometry, vectors, statistics and probability, and calculus. Similar to AP classes, students majoring in STEM fields should pursue a high level IB math class."
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "img": "https://image.shutterstock.com/image-photo/hand-writes-chalk-on-blackboard-600w-2035226027.jpg",
+    "category": "Science",
+    "name": "Physics",
+    "credit": 4,
+    "duration": 20,
+    "fee": 5500,
+    "instructor": "Professor Issac",
+    "details": "Students will learn about basic topics such as motion, forces, energy, momentum, heat and heat transfer, waves, electricity, and magnetism. Students will be engaged in scientific inquiry, investigations, and labs so that they develop a conceptual understanding and basic scientific skills."
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "img": "https://image.shutterstock.com/image-photo/organic-chemistry-science-class-stem-600w-1014629140.jpg",
+    "category": "Science",
+    "name": "Chemistry",
+    "credit": 4,
+    "duration": 20,
+    "fee": 4500,
+    "instructor": "Mr. White",
+    "details": "This course is designed to give students a basic understanding of chemical principles. Upon completion of this course students should have the skills and content necessary to succeed in college level science courses. Major topics covered are atomic structure, bonding, reactions, states of matter, and solutions."
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "img": "https://image.shutterstock.com/image-photo/cogwheels-machinery-engineering-industry-concepts-600w-566420950.jpg",
+    "category": "Engineering",
+    "name": "Mechanics",
+    "credit": 5,
+    "duration": 25,
+    "fee": 5000,
+    "instructor": "Ramsi Bolton",
+    "details": "We begin our formal study of physics with an examination of kinematics, the branch of mechanics that studies motion. The word kinematics comes from a Greek term that means motion. Note that kinematics is not concerned with what causes the object to move or to change course. We will look at these considerations later in the course."
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "img": "https://image.shutterstock.com/image-photo/profile-side-view-portrait-his-600w-1536573389.jpg",
+    "category": "Engineering",
+    "name": "Computer Science",
+    "credit": 5,
+    "duration": 25,
+    "fee": 5500,
+    "instructor": "Albert Rodis",
+    "details": "Using personal computers as effective problem solving tools for the present and the future. Theory behind solving problems using common application software including word processing, spreadsheets, database management, and electronic communications."
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "img": "https://image.shutterstock.com/image-photo/electronic-circuit-board-close-up-600w-1027460860.jpg",
+    "category": "Engineering",
+    "name": "Electrical Engineering",
+    "credit": 5,
+    "duration": 25,
+    "fee": 5000,
+    "instructor": "Mrs. Erin",
+    "details": "Electrical and Electronic Engineering (EEE) education has entered a transitional phase because the technology is changing every day. The diversity of EEE education is also increasing underscoring its multi-disciplinary nature. All the areas of the electrical and electronic engineering are growing rapidly and new fascinating disciplines of this subject are being created. Thus role of and Electrical and Electronic Engineer has changed significantly"
+  }
+]
