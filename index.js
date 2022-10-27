@@ -7,8 +7,7 @@ app.use(cors());
 
 const port = process.env.PORT || 5000;
 
-// const courses = require('./data/courses.json')
-const courses = require('./data/info.json')
+const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
     res.send('This is hitting the root folder of assignment 10 server')
