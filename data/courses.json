@@ -1,7 +1,7 @@
 [
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "img": "https://image.shutterstock.com/image-vector/math-science-concept-tiny-male-600w-1766546489.jpg",
+    "img": "https://img.freepik.com/premium-vector/realistic-math-chalkboard-background_23-2148154055.jpg?w=1380",
     "category": "Science",
     "name": "Mathematics",
     "credit": 4,
@@ -12,7 +12,7 @@
   },
   {
     "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
-    "img": "https://image.shutterstock.com/image-photo/hand-writes-chalk-on-blackboard-600w-2035226027.jpg",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-science-background_23-2148538096.jpg?size=626&ext=jpg&ga=GA1.2.817251951.1658567955&semt=sph",
     "category": "Science",
     "name": "Physics",
     "credit": 4,
@@ -34,7 +34,7 @@
   },
   {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-    "img": "https://image.shutterstock.com/image-photo/cogwheels-machinery-engineering-industry-concepts-600w-566420950.jpg",
+    "img": "https://img.freepik.com/free-photo/mechanic-hand-checking-fixing-broken-car-car-service-garage_146671-19718.jpg?size=626&ext=jpg",
     "category": "Engineering",
     "name": "Mechanics",
     "credit": 5,
@@ -45,7 +45,7 @@
   },
   {
     "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-    "img": "https://image.shutterstock.com/image-photo/profile-side-view-portrait-his-600w-1536573389.jpg",
+    "img": "https://img.freepik.com/free-vector/gradient-top-view-laptop-background_52683-6291.jpg?size=626&ext=jpg",
     "category": "Engineering",
     "name": "Computer Science",
     "credit": 5,
@@ -56,7 +56,7 @@
   },
   {
     "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-    "img": "https://image.shutterstock.com/image-photo/electronic-circuit-board-close-up-600w-1027460860.jpg",
+    "img": "https://img.freepik.com/free-photo/young-network-engineers-with-laptop-medium-shot_23-2148323445.jpg?size=626&ext=jpg&ga=GA1.2.817251951.1658567955&semt=sph",
     "category": "Engineering",
     "name": "Electrical Engineering",
     "credit": 5,
